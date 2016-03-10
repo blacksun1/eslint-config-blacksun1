@@ -3,9 +3,7 @@
   "version": "0.0.0",
   "description": "blacksun1 shareable eslint configuration",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/blacksun1/eslint-config-blacksun1.git"
@@ -19,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/blacksun1/eslint-config-blacksun1/issues"
   },
-  "homepage": "https://github.com/blacksun1/eslint-config-blacksun1#readme"
+  "homepage": "https://github.com/blacksun1/eslint-config-blacksun1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0"
+  }
 }
