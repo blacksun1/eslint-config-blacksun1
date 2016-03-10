@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-blacksun1",
+  "version": "0.0.0",
+  "description": "blacksun1 shareable eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blacksun1/eslint-config-blacksun1.git"
+  },
+  "keywords": [
+    "eslint",
+    "configuration"
+  ],
+  "author": "blacksun1 <blacksun1@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blacksun1/eslint-config-blacksun1/issues"
+  },
+  "homepage": "https://github.com/blacksun1/eslint-config-blacksun1#readme"
+}
