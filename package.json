@@ -8,6 +8,11 @@
     "type": "git",
     "url": "git+https://github.com/blacksun1/eslint-config-blacksun1.git"
   },
+  "engines": {
+    "node": ">=4.0.0 <7"
+  }
+
+  }
   "keywords": [
     "eslint",
     "configuration"
