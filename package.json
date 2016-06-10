@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/blacksun1/eslint-config-blacksun1#readme",
   "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-es2015": "^6.9.0",
     "babel-register": "^6.9.0",
     "gulp": "^3.9.1",
     "gulp-eslint": "^2.0.0"
